@@ -1,4 +1,4 @@
-testNG:
+testNG:1
    testNG is a unit testing tool. TestNG is advanced than the Junit.
 
    It is mainly used to run the code in a systemmatic order based on the annotations present in the testNG.
