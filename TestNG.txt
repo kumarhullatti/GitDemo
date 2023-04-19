@@ -4,7 +4,7 @@ testNG:
    It is mainly used to run the code in a systemmatic order based on the annotations present in the testNG.
 
    It is a replacement for the main method.
----------------------------------------------
+-----------------------------------------------
 Q: Advantages of TestNG?
 1. It has more annotations than Junit
 2. It has more conditions than Junit
